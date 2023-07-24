@@ -1,4 +1,4 @@
-Vite pwa demo
+# Vite pwa demo
 
 ### Usage
 
