@@ -10,7 +10,7 @@ function App() {
     onRegistered(r) {
       r &&
         setInterval(() => {
-          console.log("calling update?");
+          console.log("checking for new version...");
           r.update();
         }, intervalMS);
     },
